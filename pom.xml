@@ -6,6 +6,10 @@
   <groupId>com.sinenomine</groupId>
   <artifactId>H2H-Data</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+    <module>patient-service</module>
+  </modules>
 
   <name>H2H-Data</name>
   <url>https://github.com/SineNomine998/H2H-Data</url>
